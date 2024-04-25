@@ -1,0 +1,14 @@
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\bin\Debug\net8.0\prueba_tecnica_datamart.exe
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\bin\Debug\net8.0\prueba_tecnica_datamart.deps.json
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\bin\Debug\net8.0\prueba_tecnica_datamart.runtimeconfig.json
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\bin\Debug\net8.0\prueba_tecnica_datamart.dll
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\bin\Debug\net8.0\prueba_tecnica_datamart.pdb
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\prueba_tecnica_datamart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\prueba_tecnica_datamart.AssemblyInfoInputs.cache
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\prueba_tecnica_datamart.AssemblyInfo.cs
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\prueba_tecnica_datamart.csproj.CoreCompileInputs.cache
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\prueba_tecnica_datamart.dll
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\refint\prueba_tecnica_datamart.dll
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\prueba_tecnica_datamart.pdb
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\prueba_tecnica_datamart.genruntimeconfig.cache
+C:\Users\Esteawens\source\repos\prueba_tecnica_datamart\obj\Debug\net8.0\ref\prueba_tecnica_datamart.dll
