@@ -60,7 +60,7 @@
         }
 
         /// <summary>
-        /// Escribe una implementación para el algoritmo de ordenamiento mergesort.
+        /// 6. Escribe una implementación para el algoritmo de ordenamiento mergesort.
         /// </summary>
         /// <param name="array">Array para comparar</param>
         /// <param name="left">elemento a la izquierda</param>
@@ -79,7 +79,7 @@
         }
 
         /// <summary>
-        /// Escribe una implementación para el algoritmo de ordenamiento mergesort.
+        /// 6. Escribe una implementación para el algoritmo de ordenamiento mergesort.
         /// </summary>
         /// <param name="array">Array para comparar</param>
         /// <param name="left">elemento a la izquierda</param>
